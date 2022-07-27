@@ -1,2 +1,2 @@
 # SpringBootGenericStarter
-Generic Spring Boot Starter Project
+Spring Boot Generic  Starter Project
